@@ -1,0 +1,62 @@
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  .container {
+    width:600px;
+    left:50%;
+    margin-left: -300px;
+  }
+
+  .mainimage {
+    width: 600px;
+    height: 960px;
+  }
+
+  .comicimage {
+    left: 43px;
+    top: 22px;
+    width: 138px;
+    height: 162px;
+  }
+  
+}
+
+@media only screen and (min-width: 321px) and (max-width: 480px) {
+  .container {
+    width:480px;
+    left:50%;
+    margin-left: -240px;
+  }
+
+  .mainimage {
+    width: 480px;
+    height: 748px;
+  }
+
+  .comicimage {
+    left: 34px;
+    top: 18px;
+    width: 105px;
+    height: 115px;
+  }
+  
+}
+
+@media only screen and (max-width: 320px) {
+  .container {
+    width:320px;
+    left:50%;
+    margin-left: -160px;
+  }
+
+  .mainimage {
+    width: 320px;
+    height: 512px;
+  }
+
+  .comicimage {
+    left: 23px;
+    top: 12px;
+    width: 70px;
+    height: 77px;
+  }
+  
+}

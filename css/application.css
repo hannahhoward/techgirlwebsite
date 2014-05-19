@@ -1,0 +1,19 @@
+.container {
+  position: relative;
+  width:700px;
+  left:50%;
+  margin-left: -350px;
+}
+
+.mainimage {
+  width: 700px;
+  height: 1120px;
+}
+
+.comicimage {
+  position: absolute;
+  left: 50px;
+  top: 25px;
+  width: 160px;
+  height: 188px;
+}
